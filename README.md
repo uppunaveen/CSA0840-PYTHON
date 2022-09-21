@@ -13,3 +13,10 @@ day 2=
 1.climbing a staircase
 2.leapyear or not 
 3.maximum number of words
+4 merge to sorted list
+5-basic calculater 2
+6-digits 
+7-ganerate parenthises
+8-input string
+9-four season in year
+10-  to remove the words
